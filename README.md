@@ -56,7 +56,7 @@ Game Interface:
 
 ### Features:
 - The game does not stop until all the pieces are finished
-- Determine the depth of each Gorzm to customize the intelligence or difficulty of the game
+- Determine the depth of each algotithm to customize the intelligence or difficulty of the game
 - Every time you have to press the play button to allow the chosen algorithm to make the decision, which allows diversity in each game according to the inputs
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
