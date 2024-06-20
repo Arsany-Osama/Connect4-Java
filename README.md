@@ -50,7 +50,8 @@
 </br>
 Game Interface:
 </br></br>
-![Screenshot (204)](https://github.com/Arsany-Osama/Connect4-Java/assets/160052013/07e3cf64-6d53-4d70-9722-da74288a681c)
+![screenshot](https://github.com/Arsany-Osama/Connect4-Java/assets/160052013/e1b5e012-ce94-4b07-bd78-3999e8b0e4de)
+
 
 ### Features:
 - The game does not stop until all the pieces are finished
