@@ -1,0 +1,6 @@
+Connect4.GameDevMath
+gamedev.GameDevMath$PointView
+gamedev.GameDevMath
+Connect4.GameDevMath$VectorView
+Connect4.GameDevMath$PointView
+gamedev.GameDevMath$VectorView
